@@ -1,4 +1,4 @@
-package org.example.exercice4;
+package org.example.classABstraite;
 
 public  abstract  class  CalculeAire {
 

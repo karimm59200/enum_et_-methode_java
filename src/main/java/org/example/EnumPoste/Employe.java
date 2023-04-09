@@ -1,4 +1,4 @@
-package org.example.exerciceFethi;
+package org.example.EnumPoste;
 
 public class Employe {
 

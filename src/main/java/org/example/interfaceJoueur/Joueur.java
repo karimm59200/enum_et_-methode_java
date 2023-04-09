@@ -1,4 +1,4 @@
-package org.example.exercice5;
+package org.example.interfaceJoueur;
 
 public interface Joueur {
     void jouer();

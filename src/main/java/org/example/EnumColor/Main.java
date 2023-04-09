@@ -1,12 +1,12 @@
-package org.example.exercice3;
+package org.example.EnumColor;
 
-import org.example.exercice4.Carre;
-import org.example.exercice4.Cercle;
-import org.example.exercice4.Triangle;
-import org.example.exercice5.Humain;
-import org.example.exercice5.Informatique;
-import org.example.exerciceFethi.Employe;
-import org.example.exerciceFethi.Poste;
+import org.example.classABstraite.Carre;
+import org.example.classABstraite.Cercle;
+import org.example.classABstraite.Triangle;
+import org.example.interfaceJoueur.Humain;
+import org.example.interfaceJoueur.Informatique;
+import org.example.EnumPoste.Employe;
+import org.example.EnumPoste.Poste;
 
 public class Main {
     public static void main(String[] args) {
